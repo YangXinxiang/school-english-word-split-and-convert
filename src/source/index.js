@@ -7,8 +7,7 @@ const rstFileName =  path.resolve(__dirname, 'data/rst.json')
 
 const rstFileNameAll =  path.resolve(__dirname, 'data/rst-all.json')
 const {httpGet} = require('./util/request.js');
-const { reject } = require('core-js/fn/promise');
-const { findSourceMap } = require('module');
+
 console.log('fullFileName :: ',fullFileName)
 console.log('rstFileName :: ',rstFileName)
 
