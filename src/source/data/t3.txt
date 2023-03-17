@@ -1,0 +1,54 @@
+father    /'fɑːðə/     父亲
+mother    /'mʌðə/     母亲
+brother    /'brʌðə/    兄；弟
+sister    /'sɪstə/     姐；妹
+grandmother    /'grændˌmʌðə/    （外）祖母
+grandfather    /'grændˌfɑːðə/    （外）祖父
+who    /huː/     谁
+he    /hiː/     他
+she    /ʃiː/     她
+classmate    /'klɑːsmeɪt/    同班同学
+friend    /frend/     朋友
+woman    /'wʊmən/     女人
+girl    /gɜːl/     女孩
+man    /mæn/     男人
+boy    /bɔɪ/     男孩
+look    /lʊk/     看；瞧
+his    /hɪz/     他的
+name    /neɪm/     名字
+her    /hɜː/     她的
+or    /ɔː/     还是
+big    /bɪg/     大的
+tall    /tɔːl/     高的
+pretty    /'prɪti/     漂亮的
+thin    /θɪn/     瘦的
+short    /ʃɔːt/     矮的
+handsome    /ˈhænsəm/     英俊的
+new    /njuː/     新的
+does    /dʌz/     （助动词）
+bookshop    /ˈbʊkʃɒp/     书店
+zoo    /zuː/     动物园
+school    /skuːl/     学校
+supermarket    /'sjuːpəˌmɑːkɪt/     超市
+park    /pɑːk/     公园
+hospital    /ˈhɒspɪtl/     医院
+go    /gəʊ/     去
+to    /tuː/     向，朝
+grass    /grɑːs/     草
+tree    /triː/     树
+flower    /'flaʊə/     花
+boat    /bəʊt/     船
+lake    /leɪk/     湖
+hill    /hɪl/     山
+Christmas    /'krɪsməs/     圣诞节
+Father Christmas    #N/A    圣诞老人
+Christmas tree    #N/A     圣诞树
+card    /kɑːd/     贺卡
+present    /'preznt/     礼物
+New Year    #N/A    新年
+merry    /'meri/     高兴的
+too    /tuː/     也
+here    /hɪə/     这儿
+for    /fɔː/     （表示接受某事物或从某事物中获益的人）
+thank    /θæŋk/     谢谢
+happy  快乐的
